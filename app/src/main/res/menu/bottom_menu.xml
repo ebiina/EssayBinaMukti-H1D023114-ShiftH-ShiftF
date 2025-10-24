@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home / Profile -->
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/history_icon"
+        android:title="Club History" />
+
+    <!-- Coach -->
+    <item
+        android:id="@+id/menu_coach"
+        android:icon="@drawable/coach_icon"
+        android:title="Head Coach" />
+
+    <!-- Players / Squad -->
+    <item
+        android:id="@+id/menu_players"
+        android:icon="@drawable/squad_icon"
+        android:title="Team Squad" />
+
+</menu>

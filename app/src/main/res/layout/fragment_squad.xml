@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E8F8FF"
+    android:padding="12dp"
+    tools:context=".ui.fragment.SquadFragment">
+
+    <!-- Judul -->
+    <TextView
+        android:id="@+id/tv_squad_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Celta de Vigo Squad"
+        android:textColor="#0078D7"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Daftar pemain -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_players"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        tools:listitem="@layout/item_player" />
+
+</LinearLayout>

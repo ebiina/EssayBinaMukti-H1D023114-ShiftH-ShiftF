@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#E8F8FF">
+
+    <TextView
+        android:id="@+id/tv_detail_player_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#004C8C"
+        android:gravity="center_horizontal"
+        android:text="Player Name" />
+
+    <TextView
+        android:id="@+id/tv_detail_player_position"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:textColor="#0078D7"
+        android:text="Position: " />
+
+    <TextView
+        android:id="@+id/tv_detail_player_dob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="#004C8C"
+        android:text="Date of Birth: " />
+
+    <TextView
+        android:id="@+id/tv_detail_player_nationality"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="#004C8C"
+        android:text="Nationality: " />
+
+</LinearLayout>

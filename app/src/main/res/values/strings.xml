@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023114)</string>
+
+    <!-- Nama Klub -->
+    <string name="club_name">RC Celta de Vigo</string>
+
+    <!-- Deskripsi Singkat Klub -->
+    <string name="halaman_utama">
+    Real Club Celta de Vigo, commonly known as Celta Vigo, is a Spanish professional football club based in Vigo, Galicia.\n
+    Founded in 1923, the team plays its home matches at the Balaídos Stadium.\n
+    Known for their sky blue jerseys, Celta is admired for its passionate fanbase and attacking style of play.
+    </string>
+
+    <!-- Label Tombol -->
+    <string name="btn_history">Club History</string>
+    <string name="btn_coach">Head Coach</string>
+    <string name="btn_squad">Team Squad</string>
+    <string name="back">Kembali</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Sejarah Klub -->
+    <string name="history_celta">
+    Real Club Celta de Vigo was founded on 23 August 1923, as a result of the merger between two pioneer clubs of Vigo: Real Vigo Sporting and Real Fortuna de Vigo.\n\n
+    Since then, Celta has held a special place in Galician football, embracing the region’s cultural identity and sporting ambition.\n\n
+    From the early years, Celta established their home at the Estadio de Balaídos, inaugurated in December 1928.\n
+    The club adopted the sky-blue and white colours in tribute to the Galician flag, capturing the regional pride that continues to define the team’s spirit.\n\n
+    The 1940s and 1950s marked an era of perseverance for the club: Celta strived to cement themselves in Spain’s top leagues, battled relegations and earned promotions, and gradually built a legacy of competitive resilience.\n
+    Despite never having won Spain’s two largest honours, the team became known for its entertaining attacking style and passionate fan base.\n\n
+    In the 1990s and early 2000s, Celta entered a “golden” phase often dubbed “Euro Celta”, as the club competed regularly in European competitions, including the UEFA Intertoto Cup and UEFA Europa League.\n
+    This period elevated the club’s profile, brought memorable nights in continental football and shaped the modern identity of the team.\n\n
+    One of Celta’s greatest strengths has been its commitment to youth and talent development.\n
+    Players like Iago Aspas emerged from the region’s footballing tradition and became symbols of the club’s values: loyalty, hard work, and flair.\n\n
+    Off the pitch, Celta’s fan base in Vigo and throughout Galicia is among the most dedicated in Spain.\n
+    The club, often referred to as “Os Celestes”, reflects its community’s pride, cultural roots, and resilient character.\n
+    While major trophies have eluded them, the bond with supporters and the sense of identity has kept the club’s legacy thriving.\n\n
+    In recent years, the club has focused on consolidating its place in the top-flight of Spanish football (La Liga), modernising the Balaídos stadium, investing in infrastructure, and preparing for future challenges.\n
+    The journey of Celta de Vigo is not defined only by silverware, but by its story of regional pride, footballing passion, and continuous striving.\n\n
+    As Celta approaches each new season, the legacy of over a century of football remains, rooted in Vigo and Galicia, driven by ambition and respect for its origins.\n
+    The sky-blue jersey stands as a symbol — not just of a club, but of a community’s dream made real on the football field.
+    </string>
+</resources>
