@@ -1,4 +1,4 @@
-package com.unsoed.responsi1mobileh1d023114.ui.fragment
+package com.unsoed.responsi1mobileh1d023114.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater

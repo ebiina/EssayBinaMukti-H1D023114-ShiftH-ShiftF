@@ -36,34 +36,34 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:padding="16dp"
-                android:gravity="center_horizontal">
+                android:gravity="start">
 
+                <!-- Nama Pelatih dari API -->
                 <TextView
                     android:id="@+id/tv_coach_name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="#0078D7"
+                    android:textColor="#003366"
                     android:textSize="20sp"
-                    android:textStyle="bold"
-                    tools:text="Claudio Giráldez" />
+                    android:textStyle="bold" />
 
+                <!-- Tanggal Lahir Pelatih dari API -->
                 <TextView
                     android:id="@+id/tv_coach_dob"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
-                    android:textColor="#004C8C"
-                    android:textSize="16sp"
-                    tools:text="1988-07-24" />
+                    android:textColor="#003366"
+                    android:textSize="16sp" />
 
+                <!-- Kebangsaan Pelatih dari API -->
                 <TextView
                     android:id="@+id/tv_coach_nationality"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
-                    android:textColor="#004C8C"
-                    android:textSize="16sp"
-                    tools:text="Spanish" />
+                    android:textColor="#003366"
+                    android:textSize="16sp" />
 
             </LinearLayout>
         </androidx.cardview.widget.CardView>
